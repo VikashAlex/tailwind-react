@@ -10,7 +10,7 @@ function Newsletter() {
         </div>
         <div className='md:text-left text-center'>
           <input type="text" placeholder='Enter Email' className='bg-amber-50 md:w-[70%] px-3 h-[40px] rounded active:outline-1 outline-pink-400' />
-          <button className='px-3 h-[40px] ms-3  rounded text-white cursor-pointer mt-7 text-1xl bg-black'>Notify Me</button>
+          <button className='px-3 h-[41px] ms-3  rounded text-white cursor-pointer mt-7 text-1xl bg-black'>Notify Me</button>
           <p className='text-white mt-3'>We care bout the protection of your data. Read our <br /> <a href="#" className='text-black'>Privacy Policy.</a></p>
         </div>
       </div>
